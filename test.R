@@ -12,3 +12,6 @@ x<-1
 y<-1
 
 gitcreds::gitcreds_set()
+install.packages("curl")
+Yes
+install.packages("usethis")
